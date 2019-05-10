@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0735b5d6-24a9-4153-a4d3-558ae9810bf5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.train" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.train" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pinxieCorrector.py" beforeDir="false" afterPath="$PROJECT_DIR$/pinxieCorrector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuyiCorrector.py" beforeDir="false" afterPath="$PROJECT_DIR$/yuyiCorrector.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +18,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinxieCorrector.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
               <folding>
                 <element signature="e#139#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yuyiCorrector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+              <folding>
+                <element signature="e#136#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,10 +66,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yuyiCorrector.py" />
         <option value="$PROJECT_DIR$/data/data" />
         <option value="$PROJECT_DIR$/data/data.train" />
         <option value="$PROJECT_DIR$/pinxieCorrector.py" />
+        <option value="$PROJECT_DIR$/yuyiCorrector.py" />
       </list>
     </option>
   </component>
@@ -181,7 +194,7 @@
       <workItem from="1557210899977" duration="5819000" />
       <workItem from="1557477976383" duration="2846000" />
       <workItem from="1557481441847" duration="114000" />
-      <workItem from="1557481683042" duration="6955000" />
+      <workItem from="1557481683042" duration="7021000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1557480439580</created>
@@ -253,17 +266,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557495929655</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="adding data">
+      <created>1557496429002</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557496429002</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15734000" />
+    <option name="totallyTimeSpent" value="15800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,7 +294,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.67627347" visible="true" weight="0.5322581" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.67627347" visible="true" weight="0.5322581" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32372653" side_tool="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.23167156" />
@@ -349,22 +369,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yuyiCorrector.py">
+    <entry file="file://$PROJECT_DIR$/pinxieCorrector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="158">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
-            <element signature="e#136#148#0" expanded="true" />
+            <element signature="e#139#157#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxieCorrector.py">
+    <entry file="file://$PROJECT_DIR$/yuyiCorrector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="213">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
           <folding>
-            <element signature="e#139#157#0" expanded="true" />
+            <element signature="e#136#148#0" expanded="true" />
           </folding>
         </state>
       </provider>
