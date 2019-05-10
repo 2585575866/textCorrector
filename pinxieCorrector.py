@@ -11,6 +11,10 @@ import jieba
 
 sen='他指出，这是他们计划在白俄罗斯访问的第一所大学，因此对此感到既激动又担忧，幸好一切都进行得很顺利。'
 corrected_sent, detail = pycorrector.correct(sen)
-print(sen)
+
 print(corrected_sent)
+
+
+print(sen)
+print(sen)
 
