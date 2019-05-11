@@ -38,3 +38,4 @@ for pair_sen in all_train:
 print(err_count)
 print(len(all_train)-err_count)
 print("222222222222222222222222222222222222222222")
+print("yuyi")
