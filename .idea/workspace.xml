@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pinxieCorrector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+            <state relative-caret-position="548">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="e#139#157#0" expanded="true" />
               </folding>
@@ -256,11 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557495929655</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="222222333333">
+      <created>1557536095251</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557536095251</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17736000" />
+    <option name="totallyTimeSpent" value="17859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -335,7 +342,8 @@
     <MESSAGE value="adding data" />
     <MESSAGE value="1111111111111111111111" />
     <MESSAGE value="22222222222222222222" />
-    <option name="LAST_COMMIT_MESSAGE" value="22222222222222222222" />
+    <MESSAGE value="222222333333" />
+    <option name="LAST_COMMIT_MESSAGE" value="222222333333" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/kenlm-model/people_chars_lm.klm">
@@ -366,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pinxieCorrector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        <state relative-caret-position="548">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="e#139#157#0" expanded="true" />
           </folding>
